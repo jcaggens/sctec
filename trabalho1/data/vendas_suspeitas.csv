@@ -1,0 +1,27 @@
+﻿Data,Região,Canal,Produto,Valor_Venda,Ano,Mês,Dia,DiaSemana,Cidade,Motivo
+2024-10-01,sul,e-commerce,paçoca,999999.0,2024,10,1,Tuesday,blumenau,999999 ou vazio
+2025-01-01,sul,e-commerce,paçoca,999999.0,2025,1,1,Wednesday,blumenau,999999 ou vazio
+2024-02-01,sul,loja física,paçoca,999999.0,2024,2,1,Thursday,joinville,999999 ou vazio
+2025-03-01,sul,e-commerce,paçoca,123456.0,2025,3,1,Saturday,joinville,acima do limite
+2024-03-01,sul,e-commerce,rolhas,123456.0,2024,3,1,Friday,joinville,acima do limite
+2024-06-01,sul,e-commerce,rolhas,99999.0,2024,6,1,Saturday,joinville,acima do limite
+2025-02-01,sul,loja física,rolhas,99999.0,2025,2,1,Saturday,florianópolis,acima do limite
+2024-08-01,sul,loja física,rolhas,123456.0,2024,8,1,Thursday,joinville,acima do limite
+2024-09-01,sul,loja física,paçoca,5.0,2024,9,1,Sunday,joinville,abaixo do limite
+2024-11-01,sul,e-commerce,rolhas,2.0,2024,11,1,Friday,florianópolis,abaixo do limite
+2025-03-01,sul,loja física,rolhas,500.0,2025,3,1,Saturday,florianópolis,abaixo do limite
+2025-03-01,sudeste,e-commerce,rolhas,556.0,2025,3,1,Saturday,são paulo,abaixo do limite
+2024-03-01,sul,loja física,paçoca,3.0,2024,3,1,Friday,florianópolis,abaixo do limite
+2025-05-01,sul,e-commerce,paçoca,2.0,2025,5,1,Thursday,florianópolis,abaixo do limite
+2024-05-01,sul,e-commerce,paçoca,7.0,2024,5,1,Wednesday,florianópolis,abaixo do limite
+2025-06-01,sul,loja física,rolhas,5.0,2025,6,1,Sunday,joinville,abaixo do limite
+2025-07-01,sul,loja física,rolhas,150.0,2025,7,1,Tuesday,joinville,abaixo do limite
+2024-07-01,sul,e-commerce,rolhas,1.0,2024,7,1,Monday,florianópolis,abaixo do limite
+2025-01-01,sul,e-commerce,rolhas,159.0,2025,1,1,Wednesday,florianópolis,abaixo do limite
+2025-02-01,sul,loja física,paçoca,53.0,2025,2,1,Saturday,joinville,abaixo do limite
+2024-12-01,sul,loja física,rolhas,480.0,2024,12,1,Sunday,joinville,abaixo do limite
+2024-12-01,sudeste,e-commerce,rolhas,89.0,2024,12,1,Sunday,,abaixo do limite
+2024-08-01,sul,e-commerce,paçoca,560.0,2024,8,1,Thursday,blumenau,abaixo do limite
+2025-04-01,sul,e-commerce,paçoca,10.0,2025,4,1,Tuesday,blumenau,abaixo do limite
+2025-04-01,sul,loja física,rolhas,1.0,2025,4,1,Tuesday,blumenau,abaixo do limite
+2024-04-01,sudeste,loja física,paçoca,59.0,2024,4,1,Monday,,abaixo do limite
