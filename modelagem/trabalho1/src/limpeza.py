@@ -6,7 +6,8 @@ FATOR_IQR = 1.5
 
 
 #importar dataset para df (caminho a partir da pasta do script, funciona de qualquer lugar)
-pasta = Path(__file__).parent
+# o script fica em src/, a pasta data/ fica um nível acima
+pasta = Path(__file__).parent.parent
 caminho = pasta / "data" / "tabela_vendas_ZePequeno_corrigido.xlsx"
 df = pd.read_excel(caminho)
 
@@ -85,20 +86,3 @@ print(f"Canceladas/devoluções (0): {len(vendas_canceladas)}")
 print("Limites do IQR por produto:")
 print(limites.round(2).to_string())
 
-
-#analises (serão movidas para analise.py)
-#Vendas por mês
-
-#Vendas por dia da semana
-
-#Ultimos 30 dias
-
-#Ultimos 90 dias
-
-#Vendas por Regiao
-
-#vendas por canal
-
-#ticket médio
-
-#comparaçao entre os produtos
